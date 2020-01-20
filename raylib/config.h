@@ -55,7 +55,7 @@
 // Allow automatic gif recording of current screen pressing CTRL+F12, defined in KeyCallback()
 #define SUPPORT_GIF_RECORDING       1
 // Allow scale all the drawn content to match the high-DPI equivalent size (only PLATFORM_DESKTOP)
-//#define SUPPORT_HIGH_DPI            1
+#define SUPPORT_HIGH_DPI            1
 // Support CompressData() and DecompressData() functions
 #define SUPPORT_COMPRESSION_API     1
 
